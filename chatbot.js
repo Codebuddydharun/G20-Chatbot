@@ -166,11 +166,7 @@ function generateResponse(input) {
       return "This chatbot was developed by K Dharun of Class 9-B"
     }else if (input == "who is the creator of this chatbot"){
       return "This chatbot was developed by K Dharun of Class 9-B"
-    } else if (input == "how is G20 related to agriculture"){
-      return "G20 is related to agriculture through discussions and initiatives aimed at addressing global food security and agricultural issues."
-    } else if (input == "how is G20 related to agriculture?"){
-      return "G20 is related to agriculture through discussions and initiatives aimed at addressing global food security and agricultural issues."
-    } else 
+    }  else 
     return "Try asking something else"
     
     // Return a random response

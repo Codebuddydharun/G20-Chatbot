@@ -64,11 +64,12 @@ function generateResponse(input) {
       return "The Group of Twenty (G20) comprises 19 countries (Argentina, Australia, Brazil, Canada, China, France, Germany, India, Indonesia, Italy, Japan, Republic of Korea, Mexico, Russia, Saudi Arabia, South Africa, Türkiye, United Kingdom and United States) and the European Union. The G20 members represent around 85% of the global GDP, over 75% of the global trade, and about two-thirds of the world population"
 
     } else if (input == "what is this year's  G20 logo?"){//5
-      return "see The G20 Logo draws inspiration from the vibrant colours of India’s national flag – saffron, white and green, and blue. It juxtaposes planet Earth with the lotus, India’s national flower that reflects growth amid challenges. The Earth reflects India’s pro-planet approach to life, one in perfect harmony with nature. Below the G20 logo is “Bharat”, written in the Devanagari script."
+     
+      return "The G20 Logo draws inspiration from the vibrant colours of India’s national flag – saffron, white and green, and blue. It juxtaposes planet Earth with the lotus, India’s national flower that reflects growth amid challenges. The Earth reflects India’s pro-planet approach to life, one in perfect harmony with nature. Below the G20 logo is “Bharat”, written in the Devanagari script."
     } else if (input == "what is this year's G20 logo"){
       return "The G20 Logo draws inspiration from the vibrant colours of India’s national flag – saffron, white and green, and blue. It juxtaposes planet Earth with the lotus, India's national flower that reflects growth amid challenges. The Earth reflects India’s pro-planet approach to life, one in perfect harmony with nature. Below the G20 logo is “Bharat”, written in the Devanagari script."
    
-    } else if (input == "what happens at a G20 summit?"){////6
+    } else f (input == "what happens at a G20 summit?"){////6
       return "It is focused on several core issues around which its leaders hope to reach a consensus for collective action. The goal is to conclude the two-day gathering by issuing a joint statement committing its members to action, although the declaration is not legally binding. But one-on-one meetings can overshadow official business."
     } else if (input == "what happens at a G20 summit"){
       return "It is focused on several core issues around which its leaders hope to reach a consensus for collective action.The goal is to conclude the two-day gathering by issuing a joint statement committing its members to action, although the declaration is not legally binding. But one-on-one meetings can overshadow official business."
@@ -103,9 +104,9 @@ function generateResponse(input) {
     }else if (input == "how does the G20 address global economic challenges"){
       return "The G20 addresses global economic challenges through its annual summits, working groups, and ministerial meetings, where the leaders and representatives of member countries come together to discuss and coordinate on various economic issues."
    
-    }else if (input == "what is the G20 Finance Track ?"){///13
+    }else if (input == "what is the G20 Finance Track?"){///13
       return "The G20 Finance Track is one of the integral components of the G20 process. It is a series of meetings and discussions focused on economic and financial matters, involving finance ministers and central bank governors from the G20 member countries. "
-    }else if (input == "what is the G20 finance track ?"){
+    }else if (input == "what is the G20 finance track?"){
       return "The G20 Finance Track is one of the integral components of the G20 process. It is a series of meetings and discussions focused on economic and financial matters, involving finance ministers and central bank governors from the G20 member countries. "
     }else if (input == "what is the G20 Finance Track "){
       return "The G20 Finance Track is one of the integral components of the G20 process. It is a series of meetings and discussions focused on economic and financial matters, involving finance ministers and central bank governors from the G20 member countries. "
